@@ -1,0 +1,10 @@
+mode: comment-only
+minScoreForPass: 70
+allowUnsafeExecution: false
+
+labels:
+  suggestOnly: true
+
+privacy:
+  storeReports: false
+  redactSecrets: true
